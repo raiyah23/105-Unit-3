@@ -7,3 +7,8 @@ This data is being used for a course project and was choosen because of an inter
 This data has been refined from the original published, the "Global Power Plant Database."
 
 This data can be used by fellow students and professors as they see fit.
+
+
+This repository includes 2 files:
+1. The basics of coding to achive specified data
+2. The raw data
