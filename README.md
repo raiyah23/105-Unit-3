@@ -15,4 +15,5 @@ This repository includes the raw data, as well as the refined subset of data.
 
 # Data Source
 This data was originally found from the World Resource Institute
-- Research journal on how the data was found and kept up to date
+- Research journal on how the data was found and kept up to date [a relative link] (A_Global_Database_of_Power_Plants.pdf) 
+
