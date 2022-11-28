@@ -16,3 +16,11 @@ This repository includes the raw data, as well as the refined subset of data.
 # Data Source
 This data was originally found from the World Resource Institute
 - Research journal about how the data was collected and kept up to date: [A_Global_Database_of_Power_Plants.pdf](https://github.com/raiyah23/105-Unit-3/files/10100907/A_Global_Database_of_Power_Plants.pdf)
+
+# Data Use
+- This data can be used in many different ways as there are many variables present. For example, the data can be looked at by country, or it can be looked at by type of energy source.
+- This data could be used to see what a specific country may use as their main source of power.
+- This data could also be used to determine which source of energy has the most outputs.
+
+An example of how this data can be used is seen below.
+- Here, this data shows the output of hydro power plants in Australia across the years.
