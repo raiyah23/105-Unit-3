@@ -10,3 +10,4 @@ This repository includes the raw data, as well as the refined subset of data.
 
 
 # Purpose
+- The purpose of this data is to demonstrate the output of power plants in different countries across the world. This data includes different types of power plants as well.
