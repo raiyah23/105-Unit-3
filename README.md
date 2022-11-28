@@ -25,4 +25,5 @@ This data was originally found from the World Resource Institute
 An example of how this data can be used is seen below.
 - Here, this data shows the output of hydro power plants in Australia across the years.
 
-Hydro Power Plant Visual.jpeg
+![Hydro in Australia](https://user-images.githubusercontent.com/118329976/204208333-fec6f58f-b9bc-40be-8373-44f6d3e89e89.jpeg)
+
